@@ -8,5 +8,6 @@ Demo project to practice git commands during Hackeve
 3. Switch to the branch projectfile using git checkout <branch name>
 4. Open ```skeleton.py```
 5. Start Hacking in teams of 3!!
+HI, there!
 
 #####  Note : Make sure that each of you take up one of the three sub questions / defined functions
