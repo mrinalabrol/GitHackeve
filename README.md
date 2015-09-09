@@ -10,4 +10,6 @@ Demo project to practice git commands during Hackeve
 5. Start Hacking in teams of 3!!
 HI, there!
 
+#Hi there! I am using git
+
 #####  Note : Make sure that each of you take up one of the three sub questions / defined functions
