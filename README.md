@@ -17,4 +17,5 @@ Hi there! I am using git.
 >>>>>>> 00cab4d7f58aa5fd61e8b095a56e6a169f2517d4
 
 ## Hello peeps! Whats's up?
+#This is amazing bitch!
 #####  Note : Make sure that each of you take up one of the three sub questions / defined functions
