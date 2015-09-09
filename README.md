@@ -9,6 +9,11 @@ Demo project to practice git commands during Hackeve
 4. Open ```skeleton.py```
 5. Start Hacking in teams of 3!!
 
+<<<<<<< HEAD
 Hi there! I am using git.
+=======
+#Hi there! I am using git
+>>>>>>> 00cab4d7f58aa5fd61e8b095a56e6a169f2517d4
 
+## Hello peeps! Whats's up?
 #####  Note : Make sure that each of you take up one of the three sub questions / defined functions
