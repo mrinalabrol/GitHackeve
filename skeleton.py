@@ -2,12 +2,14 @@
 
 #takes a string s as argument and converts it from binary to decimal form
 def bin_to_dec(s):
-	a = s.rev()
-	dec = ""
+	a = s[::-1]
+	dec = 0
 	for ind, i in enumerate(a):
-		dig =  int(a)
-		dec = dec + str(dig*2**ind)
-	return dec
+		dig =  int(i)
+		mul = dig*2**ind
+		dec = dec + mul
+	str1 = str(dec)
+	return str1
 
 	#return n #Number n in decimal form will be returned
 
