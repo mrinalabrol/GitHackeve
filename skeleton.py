@@ -4,12 +4,12 @@
 def bin_to_dec(s):
 	a = s.rev()
 	dec = ""
-	while ind, i in enumerate(a):
+	for ind, i in enumerate(a):
 		dig =  int(a)
 		dec = dec + str(dig*2**ind)
 	return dec
 
-	return n #Number n in decimal form will be returned
+	#return n #Number n in decimal form will be returned
 
 
 #takes a number n as argument and converts it from decimal to hexadecimal form
