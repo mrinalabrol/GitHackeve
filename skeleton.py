@@ -15,7 +15,7 @@ def bin_to_dec(s):
 #takes a number n as argument and converts it from decimal to hexadecimal form
 def dec_to_hex(n):
 	
-	
+	int abcd
 	return str1 #String str1 will be returned in hexadecimal form
 
 #takes a string s as argument in hexadecimal form and returns its 1's compliment
